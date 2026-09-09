@@ -22,6 +22,10 @@ Currently working through a **Python-for-pentesters** course and building up net
 
 ### 📌 Featured Projects
 
+**[security-writeups](https://github.com/WarpFoxHub/security-writeups)** — Deep-dive writeups from hands-on network and security research: root-cause analysis, not just "solved it" — includes tooling quirks (Npcap loopback behavior), firewall profile edge cases, and independent-device verification methodology.
+
+**[My-SQLi-Project](https://github.com/WarpFoxHub/My-SQLi-Project)** — A growing Python toolkit for SQL injection techniques, built while working through PortSwigger Web Security Academy: blind (boolean/error/time-based), UNION-based recon, and DBMS fingerprinting, refactored into reusable per-DBMS classes as I go.
+
 **[Stem-agent](https://github.com/WarpFoxHub/Stem-agent)** — A self-differentiating AI "agent factory": a base model autonomously researches a domain, defines its own professional persona, and picks the tools it needs to solve a task. Built with LangGraph and GPT-4o.
 
 **[StepToLife](https://github.com/WarpFoxHub/StepToLife)** — A multi-agent assistant that guides people in vulnerable situations through real-world steps: Slovak micro-lessons, interactive resume building with PDF export, and job search in Slovakia. Flask + GPT-4o-mini.
