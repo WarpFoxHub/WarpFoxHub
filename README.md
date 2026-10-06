@@ -6,7 +6,7 @@ IT graduate (B.Sc., Technical University of Košice, 2026) moving into **cyberse
 
 Practical strength in **Python and AI/LLM application development** (agent-based systems, OpenAI API, LangGraph), plus fullstack and Docker. My bachelor's thesis is on a **hybrid post-quantum protocol** (Kyber768 + Dilithium3 + AES-256-GCM) for protecting online communication against MITM attacks.
 
-Currently working through a **Python-for-pentesters** course and building up networking + Linux fundamentals.
+Currently working through a **Python-for-pentesters** course and building up networking.
 
 ---
 
