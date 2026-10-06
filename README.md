@@ -10,6 +10,13 @@ Currently working through a **Python-for-pentesters** course and building up net
 
 ---
 
+## 🌐 Open Source
+
+**[mitmproxy](https://github.com/mitmproxy/mitmproxy)** — [#8235](https://github.com/mitmproxy/mitmproxy/pull/8471) · merged
+Fixed a port-allocation bug where a global `listen_port` was propagated to proxy modes that don't listen on a port at all, breaking the Local Applications mode. Traced the root cause in `ProxyMode.listen_port()`, added a reproducing test and a regression test for the explicit-port case.
+
+**In progress:** [#4260](https://github.com/mitmproxy/mitmproxy/issues/4260) — configurable TLS 1.3 cipher suites.
+
 ### 🔧 Tech
 
 **Languages:** Python · Java · C# · JavaScript
